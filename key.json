@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sylvan-terra-379003",
+  "private_key_id": "62b3f2675bd9887b52ee9737cea35cb3b67d2bf4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrfHb/YFQfLZCa\n48SfiKqbMusr1wjvhi9q35aFPip56KeyNvZEnheAVnfB6YGCLUzt/qy5Oh3Qc3XK\nh+44nH3DHXozxbOporB8DBFh58FZBVmOVWMGAPmAT/HpdNwxT9gcsiB2LCbjTT0r\njve8ydo52arkZmmgY1+h1GiqQJkQbM5YndNpuir6FMny0Uy6PHFa4haXfE7IG2d3\nMQQBcU7V0/MqQsGsTJUBAsBA53KB6/9GODIKxommRIHcZrjXr41jbIZHL1mvei03\nqvhLODvwPbHvsHgfSe4YFXe9EP/mHfg4kCZVwSGRsbaypmDpRp8izBAjnp2Kd/V9\nSI91KFPVAgMBAAECggEAFSchNpcXSVFBiRmXY2ZkRQie4aWAwKr4pmI2GvF0I92C\n8gS9k/E8TORdmVnIU9pqpuDHRYHZs6DKYtUpmWoUSUEVldVJOB+NTX/flQgVXXm/\ndkMqF89+90jlOjrj/mEu8zs1rd38XgVlCj50aKEtff1PiyTm2pXncfrVfkrBlrjh\nekG2k2/gve6zUm9qV63OtC+u2f9SSXrM7NA9YqgHJjeXL/ffMXjz/D6118dhrJUz\nn+/Qg1jxFr53cPhyUOE+N4ExoSch63xEzMiqnyb4okdMvlInyUJebwyxeEZkd4+u\nxcV/kWJfRJ+vbOMBMIJ6nWm3dO7drRRWntEfsgOH8QKBgQDSZLMJUQsNKr9Sdl1A\nochwDPKZc+qgLuAifcgCNb+kXBZDhKNtTr4jC6cPfsDDwB3AvRT6d+9PVgm4VPXq\nNlux7GUfL7e/BK439MT33FPpScVm7BjArz6Ew/8AiiWlhvqyzadr4Il2GmVRvn24\n+tpkizeTzatU3FqXi85TiBciEwKBgQDQqLNohi0FTiXs//oKGPR/6Uix6Df9nYD9\nCba2dkYQ4WWbI/EvVdMuR1rdRHSqUyG2lTBgY0sd8wO+RfSxdD89GpQY3KsPwQV1\nCblOV0fkaGdZqAuNh0iaTgkFrAUrkYw054s0GK/b4r9ovFjZ+zoYZQc4nC25CcKN\n2ezKdQIvdwKBgHiTW4PwXUwLfqBM036x+UQ2N2a4ZvOsSamaumCB2zXfzKafQmXn\npdJB4FliBClrVeHau0YcLBskrOdmUZUL2Bss5nssBrtDfHD3J1cBf1mIfMhScJEl\nHchK5z6w7YhixhRpBhUuFrmHwR9K85Rqt3S90Hk1eoZkzsphRjrbGJ7fAoGBAIfe\nwmx2qoxA1ftct8GpfFRqYNbQIt13mU2r7JklrPxC+TmrjtrG5SvGdQmOEPX0Cgjt\nXsH1Bi3rV22n+e0viBpO207RKmaoxtfuTAcSWJMH1PyRq2wuQn2QANn7qKY1MXol\nqAR1atYg8YjO1ICk0bCe4LPhJvjNvS1HUaSHyrODAoGAcytpaiFnk4a3RiLRXlKS\n1saX8JYZsND4+ptC5Lt7yGb92OAX3TSJ1KlrTqSycffSGO6J0Cm35Ts8tvpYQPwK\nuwBowkHOAiLVrAq+5FBWkXWQX6RecwKlvX7Ht8O/euYpPKYCyQPiGX9Nhuuotw6+\nMCAOxmyNPhcktPYzKHwDbnk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text@sylvan-terra-379003.iam.gserviceaccount.com",
+  "client_id": "110753401244026463304",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text%40sylvan-terra-379003.iam.gserviceaccount.com"
+}
+

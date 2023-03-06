@@ -11,7 +11,7 @@
 // import libraries
 const f = require('firebase-functions');
 const admin = require('firebase-admin');
-const cors = require('cors')({origin: true});
+const cors = require('cors')
 const express = require('express');
 const bodyParser = require('body-parser');
 
@@ -25,6 +25,7 @@ const main = express();
 // add the path to receive request and set json as bodyParser to process the body
 main.use('/api', app);
 main.use(bodyParser.json());
+main.use(cors({ origin: true }));
 main.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(cors({ origin: true }));
